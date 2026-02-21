@@ -37,7 +37,7 @@ Hi! I’m a **Fullstack and Blockchain Developer** with a strong focus on buildi
 
 ### 🧑‍💻 Fullstack Development
 - **Frontend**: ReactJS, Next.js, TypeScript, TailwindCSS, ShadCN UI, Figma
-- **Backend**: Node.js, Express, MySQL, SQL
+- **Backend**: Node.js, Express, Python, FastAPI, PosgreSQL, MySQL, SQL, Reddis
 - **DevOps**: Docker, GitHub Actions, CI/CD
 - **Integration**: RESTful APIs, Lucid Cardano, IPFS
 
