@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Hi! I’m a **Fullstack & Blockchain Developer** focused on building production-ready decentralized applications (**dApps**) in the :contentReference[oaicite:0]{index=0} ecosystem.
+Hi! I’m a **Fullstack and Blockchain Developer** with a strong focus on building decentralized applications (**dApps**) on the **Cardano ecosystem**.
 
 - 🔷 **3+ years** of hands-on experience developing Cardano dApps  
 - 💰 Successfully funded across multiple rounds of :contentReference[oaicite:1]{index=1}  
