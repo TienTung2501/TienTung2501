@@ -11,7 +11,7 @@
 Hi! I’m a **Fullstack and Blockchain Developer** with a strong focus on building decentralized applications (**dApps**) on the **Cardano ecosystem**.
 
 - 🔷 **3+ years** of hands-on experience developing Cardano dApps  
-- 💰 Successfully funded across multiple rounds of :contentReference[oaicite:1]{index=1}  
+- 💰 Successfully funded through **multiple Project Catalyst rounds** 
 - 🧱 Deep expertise in **Aiken, Lucid, CIP-68, MeshJS, Blockfrost, Hydra, Midnight**, and the **eUTXO model**  
 - 🌍 Expanding into **multi-chain Web3 architecture**  
 - 🎯 Focused on building **real-world, scalable, and sustainable decentralized systems**
